@@ -1,6 +1,0 @@
-# Example dataset config: adjust path to your labeled YOLO-format dataset.
-path: ./camera_dataset
-train: images/train
-val: images/val
-names:
-  0: security_camera
