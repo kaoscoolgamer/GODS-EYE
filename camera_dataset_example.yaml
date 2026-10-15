@@ -1,0 +1,6 @@
+# Example only: point `path` at your own labeled dataset.
+path: ./camera_dataset
+train: images/train
+val: images/val
+names:
+  0: security_camera
